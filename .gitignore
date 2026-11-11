@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# Jupyter Notebook 数据缓存
+.jupyter/
+
+# 大型数据文件（按需调整）
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.parquet
+data/
+
+# 环境变量与密钥
+.env
+
+# IDE / 编辑器
+.vscode/
+.idea/
+
+# 操作系统
+Thumbs.db
+.DS_Store
